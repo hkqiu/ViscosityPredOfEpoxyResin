@@ -1,5 +1,6 @@
 # ViscosityPredOfEpoxyResin
 Here we attached the raw data for predicting the viscosity of epoxy resin.
+
 This is the supplementary material for Highly accurate prediction of viscosity of epoxy resin and diluent at various temperatures utilizing machine learning at https://doi.org/10.1016/j.polymer.2022.125216
 
 Notes:
